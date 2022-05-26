@@ -3,3 +3,8 @@
     margin-top:10px;
     padding:10px;
 }
+
+#all-users {
+    display: flex;
+    flex-direction: row;
+}
