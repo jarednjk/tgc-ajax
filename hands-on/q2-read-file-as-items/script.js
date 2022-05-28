@@ -9,4 +9,13 @@ document.querySelector('#btn-load-items').addEventListener('click', async()=>{
     }
     let fruitsDiv = document.querySelector('#fruits');
     fruitsDiv.appendChild(fruitsUL);
+
+    // let elements = fruits.map(function(fruit){
+    //     let liElement = document.createElement('li');
+    //     liElement.innerHTML = fruit;
+    //     return liElement;
+
+
+    // })
 })
+
